@@ -48,6 +48,6 @@ I'm a Full stack Web developer and My focus on developing the websites and appli
 ## 📫 Contact Me
 
 - LinkedIn: https://in.linkedin.com/in/abhayanand-pandey-95354730b
-- Portfolio: uplod sool
+- Portfolio: uplod soon
 
 Thanks for visiting 
