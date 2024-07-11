@@ -22,7 +22,7 @@ I'm a Full stack Web developer and My focus on developing the websites and appli
 
 - 📫 How to reach me itsanhayanand@gmail.com
 
-- ⚡ Fun fact: No fun 🤔
+- ⚡ Fun fact: No fun 😐
 
 
 ## 🛠️ Technologies & Tools
