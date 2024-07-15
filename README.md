@@ -27,12 +27,12 @@ I'm a Full stack Web developer and My focus on developing the websites and appli
 
 ## 🛠️ Technologies & Tools
 <a href="https://html.com">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a>
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)
+<a href="[https://html.com](https://web.dev/learn/css)">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)</a>
+<a href="[https://html.com](https://www.w3schools.com/js/)">![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)</a>
+<a href="[https://html.com](https://nodejs.org/en)">![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)</a>
+<a href="[https://html.com](https://react.dev/)">![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000)</a>
+<a href="[https://html.com](https://aws.amazon.com/)">![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=ffffff)</a>
+<a href="[https://html.com](https://github.com/)">![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)</a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
