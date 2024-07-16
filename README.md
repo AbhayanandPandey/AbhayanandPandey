@@ -44,7 +44,7 @@ I'm a Full stack Web developer and My focus on developing the websites and appli
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhayanandPandey&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayanandPandey&layout=compact&theme=radical)
 
-## 📫 Contact Me
+## 📞 Contact Me
 
 - LinkedIn: https://in.linkedin.com/in/abhayanand-pandey-95354730b
 - Portfolio: uplod soon
