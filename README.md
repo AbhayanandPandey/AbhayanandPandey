@@ -12,9 +12,9 @@ I'm a Full stack Web developer and My focus on developing the websites and appli
 <p align="right" /><img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><p>
 
 
-- 🌱 I’m currently learning node.js and Express.js
+- 🌱 I’m currently learning ReactJs + REST API
                    
-- 👯 I’m currently creating website [resume builder] and [ecommerse website]
+- 👯 I’m currently creating website [E-park]
 
 - 🤔 I’m looking for help with [performace and seo optimization]        
 
