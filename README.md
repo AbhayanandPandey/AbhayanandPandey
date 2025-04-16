@@ -56,6 +56,8 @@ I'm a **Full Stack Web Developer** passionate about building websites and applic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayanandPandey&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+
 ---
 
 ## 📞 Contact Me
