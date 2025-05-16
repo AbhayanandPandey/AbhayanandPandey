@@ -19,7 +19,7 @@ I'm a **Full Stack Web Developer** passionate about building websites and applic
 
 ### 👨‍💻 What I’m Working On:
 - 🌱 Currently learning **ReactJS & NEXT JS**
-- 👷‍♂️ Developing **[E-park](https://github.com/AbhayanandPandey/E-Park_GateWay)**  & **[Shoping-Zone](https://github.com/AbhayanandPandey/Shoping_zone)**
+- 👷‍♂️ Developing **[E-park] (https://github.com/AbhayanandPandey/E-Park_GateWay)**  & **[Shoping-Zone](https://github.com/AbhayanandPandey/Shoping_zone)**
 - 🔍 Looking for help with **Performance & SEO Optimization**
 - 💬 Ask me about **Web Development & MERN Stack**
 - 📫 Reach me at **itsanhayanand@gmail.com**
