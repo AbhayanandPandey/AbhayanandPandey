@@ -2,7 +2,7 @@
 
 ## 🚀 About Me 
 
-I'm a **Full Stack Web Developer** passionate about building websites and applications. I love working on innovative projects and collaborating with others to create amazing software.
+I'm a **Full Stack Web Developer** passionate about building websites and applications. I love working on innovative projects and collaborating with others to create amazing software. 
 
 ---
 
