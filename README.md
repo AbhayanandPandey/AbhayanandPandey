@@ -8,7 +8,7 @@ I'm a **Full Stack Web Developer** passionate about building websites and applic
 
 <h3 align="center">
   <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=AbhayanandPandey&label=Profile%20views&color=0e75b6&style=flat" alt="AbhayanandPandey" />
+    <img src="https://komarev.com/ghpvc/?username=AbhayanandPandey&label=Profile%20views&color=0e75b6&style=flat" alt="AbhayanandPandey" /> 
   </p>
   A passionate FullStack Developer from India
 </h3>
