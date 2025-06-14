@@ -27,6 +27,12 @@ I'm a **Full Stack Web Developer** passionate about building websites and applic
 
 ---
 
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="coding" width="400">
+</div>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
