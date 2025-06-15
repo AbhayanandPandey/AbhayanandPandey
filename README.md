@@ -1,74 +1,64 @@
-# Hi there 👋, I'm Abhayanand Pandey
+# 👋 Hi there, I'm Abhayanand Pandey
 
 ## 🚀 About Me
 
-I'm a **Full Stack Web Developer** passionate about building websites and applications. I love working on innovative projects and collaborating with others to create amazing software. 
+I'm a passionate **Full Stack Web Developer** from India 🇮🇳. I love crafting modern, scalable, and performance-driven web applications. I believe in clean code, continuous learning, and building meaningful digital experiences.
 
----
-
-<h3 align="center">
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=AbhayanandPandey&label=Profile%20views&color=0e75b6&style=flat" alt="AbhayanandPandey" /> 
-  </p>
-  A passionate FullStack Developer from India
-</h3>
-
-<p align="right">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" autoplay>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhayanandPandey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 👨‍💻 What I’m Working On:
-- 🌱 Currently learning **ReactJS & NEXT JS**
-- 👷‍♂️ Developing **[Blinkit-clone](https://github.com/AbhayanandPandey/blinkit_clone)**  & **[Shoping-Zone](https://github.com/AbhayanandPandey/Shoping_zone)**
-- 🔍 Looking for help with **Performance & SEO Optimization**
-- 💬 Ask me about **Web Development & MERN Stack**
-- 📫 Reach me at **itsanhayanand@gmail.com**
-- ⚡ Fun fact: "I break things to fix them better! 🚀"
-
----
-
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="coding" width="400">
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="60%" />
 </div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🔥 What I'm Working On
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+- ⚛️ Learning **ReactJS** & **Next.js**
+- 🧑‍💻 Building [Blinkit Clone](https://github.com/AbhayanandPandey/blinkit_clone) and [Shopping Zone](https://github.com/AbhayanandPandey/Shoping_zone)
+- ⚙️ Improving **Performance & SEO** of web apps
+- 🤝 Open to **collaborations and freelance opportunities**
+- 💬 Ask me about **Web Development** | **MERN Stack**
+- 📧 Reach me at [itsanhayanand@gmail.com](mailto:itsanhayanand@gmail.com)
+- ⚡ Fun fact: _“I break things to fix them better!”_
+
+---
+
+## 🛠️ Technologies & Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,mysql,c,cpp,github,git,aws,gcp,vscode,figma" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayanandPandey&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayanandPandey&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhayanandPandey&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayanandPandey&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayanandPandey&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayanandPandey&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 
 ---
 
-## 📞 Contact Me
-- 📩 **Email:** [itsanhayanand@gmail.com](mailto:itsanhayanand@gmail.com)
-- 💼 **LinkedIn:** [Abhayanand Pandey](https://in.linkedin.com/in/abhayanand-pandey-95354730b)
-- 🌐 **Portfolio:** *(Coming Soon...)*
+## 📞 Let's Connect
 
-Thanks for visiting! 🚀
+- 📧 **Email:** [itsanhayanand@gmail.com](mailto:itsanhayanand@gmail.com)  
+- 💼 **LinkedIn:** [Abhayanand Pandey](https://in.linkedin.com/in/abhayanand-pandey-95354730b)  
+- 🌐 **Portfolio:** _Coming Soon..._
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+coding!+🚀" alt="Typing SVG" />
+</p>
