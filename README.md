@@ -59,12 +59,12 @@ I'm a passionate **Full Stack Web Developer** from India 🇮🇳. I love crafti
 
 ---
 
-<p>
+<p align="center" width='full'>
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 </p>
 
 ##
 
-<p align="center">
+<p align="center" width='full'>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hey+👋;Thanks+for+visiting!;Happy+coding!+🚀" alt="Typing SVG" />
 </p>
