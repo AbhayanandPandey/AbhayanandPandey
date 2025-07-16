@@ -59,10 +59,6 @@ I'm a passionate **Full Stack Web Developer** from India 🇮🇳. I love crafti
 
 ---
 
-<p align="center" width='full'>
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
-</p>
-
 ##
 
 <p align="center" width='full'>
