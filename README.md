@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Web Developer** from India 🇮🇳. I love crafti
 ## 🔥 What I'm Working On
 
 - ⚛️ Learning **ReactJS** & **Next.js**
-- 🧑‍💻 Building [Blinkit Clone](https://github.com/AbhayanandPandey/blinkit_clone) and [Shopping Zone](https://github.com/AbhayanandPandey/Shoping_zone)
+- 🧑‍💻 Building [Blinkit Clone](https://blinkit-clone-2.onrender.com/) and [Shopping Zone](https://github.com/AbhayanandPandey/Shoping_zone)
 - ⚙️ Improving **Performance & SEO** of web apps
 - 🤝 Open to **collaborations and freelance opportunities**
 - 💬 Ask me about **Web Development** | **MERN Stack**
