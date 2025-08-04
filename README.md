@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Web Developer** from India 🇮🇳. I love crafti
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="60%" />
 </div>
 
----
+--- 
 
 ## 🔥 What I'm Working On
 
