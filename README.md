@@ -2,7 +2,7 @@
 
 ## 🚀 About Me 
  
-I'm a passionate **Full Stack Web Developer** from India 🇮🇳. I love crafting modern, scalable, and performance-driven web applications. I believe in clean code, continuous learning, and building meaningful digital experiences.
+I'm a passionate <u>**Full Stack Web Developer**</u> from India 🇮🇳. I love crafting modern, scalable, and performance-driven web applications. I believe in clean code, continuous learning, and building meaningful digital experiences.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhayanandPandey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
