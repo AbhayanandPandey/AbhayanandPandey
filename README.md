@@ -16,7 +16,7 @@ I'm a passionate <u>**Full Stack Web Developer**</u> from India 🇮🇳. I love
 
 ## 🔥 What I'm Working On
 
-- ⚛️ Learning **ReactJS** & **Next.js**
+- ⚛️ Learning **ReactJS** & **Next.js** 
 - 🧑‍💻 Building [Blinkit Clone](https://blinkit-3x9f.onrender.com/) and [Shopping Zone](https://github.com/AbhayanandPandey/Shoping_zone)
 - ⚙️ Improving **Performance & SEO** of web apps
 - 🤝 Open to **collaborations and freelance opportunities**
